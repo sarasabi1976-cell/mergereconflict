@@ -1,1 +1,1 @@
-Banglore
+city:Banglore
